@@ -1,6 +1,1 @@
-"# Online-retail-application-database" 
-"# Online-retail-application-database" 
-"# Online-retail-application-database" 
-"# Online-retail-application-database" 
-"# Online-retail-application-database" 
-"# Online-retail-application-database" 
+This project efficiently store and manage data related to products,customers and transactions,enabling the application to provide seamless shopping experience for the users.Retail doesn't allow third parties to be involved which improves the brand quality
